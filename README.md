@@ -1,2 +1,2 @@
 # softuni
-SoftUni Courses Task and Matirials
+SoftUni Courses Task and Materials
